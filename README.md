@@ -1,17 +1,5 @@
 # Rogelito Jr C. Maderal — Portfolio
 
-Modern neon-purple developer portfolio built with React 19, TypeScript, Tailwind CSS 4, Vite, and React Router.
-
-## Features
-
-- Dark navy / black theme with vibrant purple gradients and subtle neon glow
-- Glassmorphism-inspired cards
-- Smooth scroll-reveal animations
-- Fully responsive (desktop, tablet, mobile)
-- Sticky navigation with active indicators and mobile hamburger menu
-- Project category filters
-- Contact form with client-side validation (frontend demo)
-
 ## Pages
 
 | Route       | Description                          |
@@ -35,7 +23,7 @@ pnpm run dev
 - `pnpm run preview` – Preview production build
 - `pnpm run lint` – Run ESLint
 
-## Tech Stack
+## Tech Stack Use
 
 - React 19 + TypeScript
 - Tailwind CSS 4
